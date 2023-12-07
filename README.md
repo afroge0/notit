@@ -1,0 +1,2 @@
+# notit
+notes LLM 
